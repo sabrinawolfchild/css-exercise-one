@@ -1,0 +1,66 @@
+body {
+  font-size: 14px;
+}
+
+/* yellow nav background color also spans width of page */
+nav {
+  background-color: yellow;
+  height: 120px;
+  margin-top: -60px;
+  position: fixed;
+  width: 100%;
+}
+
+
+section {
+  margin: 0 auto;
+  width: 60%;
+}
+
+/* h1 font large enough to span entire page */
+
+h1 {
+  font-family: sans-serif;
+  font-size: 4em;
+}
+
+.example, h3 {
+  padding-top: -50px;
+  text-align: center
+}
+
+h3 {
+  font-size: 2em;
+}
+
+/* default background color is green. background doesn not need to span entire witdth of page */
+
+.element {
+  background-color: green;
+  height: 40px;
+  margin: 40px 0;
+  width: 100%;
+}
+
+/* below are alternate background colors*/
+
+.element1 {
+  background-color: aqua;
+  height: 40px;
+  margin: 40px 0;
+  width: 100%;
+}
+
+.element2 {
+  background-color: aquamarine;
+  height: 40px;
+  margin: 40px 0;
+  width: 100%;
+}
+
+.element3 {
+  background-color: palegreen;
+  height: 40px;
+  margin: 40px 0;
+  width: 100%;
+}
