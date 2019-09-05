@@ -5,8 +5,8 @@ body {
 /* yellow nav background color also spans width of page */
 nav {
   background-color: yellow;
-  height: 120px;
-  margin-top: -60px;
+  height: 100px;
+  margin-top: -40px;
   position: fixed;
   width: 100%;
 }
@@ -25,7 +25,7 @@ h1 {
 }
 
 .example, h3 {
-  padding-top: -50px;
+  padding-top: 10px;
   text-align: center
 }
 
@@ -37,7 +37,7 @@ h3 {
 
 .element {
   background-color: green;
-  height: 40px;
+  height: 60px;
   margin: 40px 0;
   width: 100%;
 }
@@ -46,21 +46,21 @@ h3 {
 
 .element1 {
   background-color: aqua;
-  height: 40px;
+  height: 60px;
   margin: 40px 0;
   width: 100%;
 }
 
 .element2 {
   background-color: aquamarine;
-  height: 40px;
+  height: 60px;
   margin: 40px 0;
   width: 100%;
-}
+  }
 
 .element3 {
   background-color: palegreen;
-  height: 40px;
+  height: 60px;
   margin: 40px 0;
   width: 100%;
-}
+ }
